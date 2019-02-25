@@ -1,1 +1,1 @@
-# responsive-website-pages
+# responsive-website-pages using media queries without flexbox or grid
